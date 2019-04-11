@@ -1,0 +1,70 @@
+Voronoi Diagram
+- list Vertex
+iterator
+emplace_back
+back
+iterator end()
+erase()
+- get
+
+Done:
+
+Priority Queue
+-vector Event *
+bool empty()
+unsigned int size()
+void emplaceback
+operator []
+void pop_back
+
+Box:
+-array double, holds 2
+operator[]
+-array Intersection, holds 2
+operator []
+
+Voronoi Diagram:
+- vector Vector2
+push_back
+
+-list HalfEdges
+emplace_back
+back
+iterator end
+erase
+
+
+-unordered set Vertex*
+emplace()
+
+- unordered set Half Edge*
+iterator find
+iterator end
+void emplace()
+
+-vector Site
+void reserve
+push_back()
+back()
+[] operator
+size()
+
+-vector Faces
+void reserve
+push_back()
+back()
+[] operator
+size()
+
+Fortune's Algorithm
+- list LinkedVertex
+emplace_back
+back
+
+- unordered map <unsigned int, array of LinkedVertex, size 8
+iterator find
+iterator end
+void emplace_back
+[] operator
+[][] operator
+[].fill(nullptr)

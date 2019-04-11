@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (fortuneExample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\user\source\repos\voronoifinal - working\main.cpp(21): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\user\source\repos\voronoifinal - working\main.cpp(37): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\user\source\repos\voronoifinal - working\main.cpp(46): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\user\source\repos\voronoifinal - working\main.cpp(47): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\user\source\repos\voronoifinal - working\main.cpp(139): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+  fortuneExample.vcxproj -> C:\Users\user\source\repos\voronoiFinal - working\Debug\voronoiFinal.exe
